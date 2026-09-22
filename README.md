@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/user-attachments/assets/b056baeb-6000-4447-8c37-2303e2ddef4a" width="150" style="border-radius: 20px;">
+  <img src="app_icon_generado.jpg" alt="SliderTool Logo" width="120">
   <h1>SliderTool</h1>
   <p><strong>Navega por tu teléfono deslizando mágicamente los bordes de tu pantalla</strong></p>
 
@@ -30,10 +30,11 @@ La idea original surgió al intentar personalizar una tablet Amazon Fire HD 8 us
 * **100% Personalizable:** Cambia el grosor, la opacidad y los lugares exactos de activación. Oculta los bordes una vez te hayas acostumbrado a usarlos.
 
 ## 📥 Cómo Instalar
-1. Ve a la sección de **[Releases (Lanzamientos)](https://github.com/luisfer1990/SliderTool-App/releases)** de este repositorio.
-2. Descarga el archivo `.apk` de la versión más reciente a tu teléfono.
-3. Abre el archivo descargado. Es posible que tu teléfono te pida permiso para "Instalar aplicaciones de origen desconocido", acéptalo.
-4. *Nota: Google Play Protect podría lanzar una advertencia debido a que la app usa permisos de Accesibilidad (necesarios para detectar tus deslizamientos). Es completamente seguro.*
+1. Ve a la sección de **[Releases (Lanzamientos)](https://github.com/luisfer1990/SliderTool-App/releases)** en este repositorio y descarga el archivo `SliderTool-Oficial.apk`.
+2. Transfiérelo a tu dispositivo Android (Tablet o Teléfono).
+3. **Advertencia de Google Play Protect:** Al instalar la app, Google Play Protect podría mostrar una pantalla roja de advertencia ("Aplicación bloqueada"). Esto es normal porque la app no está en la Play Store y pide el Permiso de Accesibilidad. 
+   - **Solución:** Toca la flecha pequeña o el texto que dice **"Más detalles"** y luego toca **"Instalar de todas formas"**.
+4. ¡Abre la aplicación y sigue el asistente de bienvenida para configurarla!
 
 ## 🔒 Privacidad y Seguridad
 SliderTool necesita permisos de **Accesibilidad** y **Dibujar sobre otras aplicaciones** para poder funcionar. Todo el código que intercepta tus gestos se ejecuta **localmente en tu teléfono**. La aplicación no requiere permisos de internet y no envía tu información a ningún servidor externo. El código fuente principal se mantiene de forma privada.
