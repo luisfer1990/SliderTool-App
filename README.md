@@ -33,7 +33,8 @@ La idea original surgió al intentar personalizar una tablet Amazon Fire HD 8 us
 1. Ve a la sección de **[Releases (Lanzamientos)](https://github.com/luisfer1990/SliderTool-App/releases)** en este repositorio y descarga el archivo `SliderTool-Oficial.apk`.
 2. Transfiérelo a tu dispositivo Android (Tablet o Teléfono).
 3. **Advertencia de Google Play Protect:** Al instalar la app, Google Play Protect podría mostrar una pantalla roja de advertencia ("Aplicación bloqueada"). Esto es normal porque la app no está en la Play Store y pide el Permiso de Accesibilidad. 
-   - **Solución:** Toca la flecha pequeña o el texto que dice **"Más detalles"** y luego toca **"Instalar de todas formas"**.
+   - **Solución Principal:** Toca la flecha pequeña o el texto que dice **"Más detalles"** y luego toca **"Instalar de todas formas"**.
+   - **Solución Alternativa (Si no aparece el botón):** Si el botón no aparece, abre la app de *Google Play Store*, toca tu foto de perfil (arriba a la derecha), entra a *Play Protect*, toca el engranaje (ajustes) y apaga temporalmente "Analizar las apps con Play Protect". Instala SliderTool y luego vuelve a encenderlo.
 4. ¡Abre la aplicación y sigue el asistente de bienvenida para configurarla!
 
 ## 🔒 Privacidad y Seguridad
